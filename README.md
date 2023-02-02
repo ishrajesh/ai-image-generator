@@ -12,15 +12,23 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Installing
 1. Clone the repository to your local machine:
-`git clone https://github.com/ishrajesh/ai-image-generator.git`
+```
+git clone https://github.com/ishrajesh/ai-image-generator.git 
+```
 2. Navigate to the project directory:
-`cd ai-image-generator`
-3.Install the required packages:
-`npm install`
+```
+cd ai-image-generator
+```
+3. Install the required packages:
+```
+npm install
+```
 
 ## Usage
 To start the server and run the application, run the following command:
-`npm start`
+```
+npm start
+```
 The application will be available at http://localhost:3000.
 
 ## Contributions
