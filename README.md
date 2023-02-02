@@ -1,16 +1,16 @@
-#AI Image Generator with DALL-E
+# AI Image Generator with DALL-E
 This is a simple Express application that uses OpenAI's DALL-E model to generate images based on the input provided. The model is pre-trained and runs on the backend, providing a user-friendly interface for generating images through a web application.
 
-##Getting Started
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-##Prerequisites
+## Prerequisites
 - Node.js
 - npm
 - Express
 - Axios
 
-##Installing
+## Installing
 1. Clone the repository to your local machine:
 `git clone https://github.com/ishrajesh/ai-image-generator.git`
 2. Navigate to the project directory:
@@ -18,16 +18,16 @@ These instructions will get you a copy of the project up and running on your loc
 3.Install the required packages:
 `npm install`
 
-##Usage
+## Usage
 To start the server and run the application, run the following command:
 `npm start`
 The application will be available at http://localhost:3000.
 
-##Contributions
+## Contributions
 Contributions are welcome. Please open an issue or create a pull request if you would like to contribute to the project.
 
 
-##Future Feature Plans
+## Future Feature Plans
 1. Add authentication to secure the application and provide personalized experience to users.
 2. Add route authorization to ensure secure access to sensitive information and functionality.
 3. Add a database to store previously generated images and prompts for easy access and retrieval.
